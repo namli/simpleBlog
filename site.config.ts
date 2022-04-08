@@ -2,7 +2,8 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '7875426197cf461698809def95960ebf',
+  rootNotionPageId: '69e3cd7e99af42d5b34b08b3a57400ba',
+  //https://namli.notion.site/simpleBlog-2972881742ff48aba1839bfef35a46d5
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
